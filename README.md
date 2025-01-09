@@ -1,6 +1,3 @@
-Certainly! Here’s a personalized GitHub profile README for you, Matias:
-
-```markdown
 ## Hi there 👋
 
 I'm **Matias**, an NVIDIA AI/Hardware Engineer specializing in NVIDIA Jetson, Jetpack, Firmware, and Driver development. 
@@ -38,6 +35,3 @@ I am dedicated to leveraging cutting-edge technology, particularly NVIDIA AI and
 
 ### Let's Connect!
 Feel free to reach out if you're interested in collaboration or have any questions about my work!
-```
-
-You can copy and paste this into your GitHub profile's README.md file to showcase your skills and experience!
