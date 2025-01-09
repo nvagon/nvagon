@@ -2,8 +2,6 @@
 
 I'm **Matias**, an NVIDIA AI/Hardware Engineer specializing in NVIDIA Jetson, Jetpack, Firmware, and Driver development. 
 
-💼 **Rate**: $59.99/hr
-
 ### About Me
 I am dedicated to leveraging cutting-edge technology, particularly NVIDIA AI and advanced hardware, to foster innovation and influence the future. My passion lies in exploring new possibilities and driving impactful changes in the tech landscape.
 
@@ -12,9 +10,6 @@ I am dedicated to leveraging cutting-edge technology, particularly NVIDIA AI and
   - **Agentic AI Blueprint**: LLM, RIVA, DeepStream, Robotics & Cosmos, NeMo
   - **NVIDIA Jetson Smart Camera**: CUDA, TensorRT, Jetpack, Image Processing
   - **CUDA C++ Optimization**: RTX 4090, 5090, A100, H100 Architecture
-
-### Work History
-- No items
 
 ### Skills
 - NVIDIA Jetson
